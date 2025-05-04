@@ -1,0 +1,408 @@
+[
+  {
+    "crop": "Rice",
+    "aliases": [
+      "Paddy",
+      "Chawal",
+      "Bhat"
+    ],
+    "diseases": [
+      {
+        "name": "Blast",
+        "causal_organism": "Magnaporthe grisea",
+        "symptoms": "Spindle-shaped spots with dark brown margins and gray center on leaves. Node and neck infections cause blackening, brittleness, and grain chaffiness.",
+        "favorable_conditions": "Intermittent drizzles, cloudy weather, high humidity (93-99%), low night temperature (15-20°C), excess nitrogen.",
+        "prevention": "Use resistant variety CO 47, avoid excess nitrogen, apply nitrogen in three split doses, spray Carbendazim 50WP @ 500g/ha, Tricyclozole 75 WP @ 500g/ha, or Metominostrobin 20 SC @ 500ml/ha. Seed treatment with TNAU Pf liquid formulation @ 10 ml/kg."
+      },
+      {
+        "name": "Brown Leaf Spot",
+        "causal_organism": "Helminthosporium oryzae (Drechslera oryzae)",
+        "symptoms": "Rectangular or oval brown spots with discrete margins on leaves, brown lesions on glumes and grains leading to grain discoloration.",
+        "favorable_conditions": "Temperature 25-30°C, relative humidity above 80%, excess nitrogen.",
+        "prevention": "Spray Metominostrobin @ 500 ml/ha at disease appearance."
+      },
+      {
+        "name": "Sheath Rot",
+        "causal_organism": "Sarocladium oryzae",
+        "symptoms": "Dark brown or black patches on uppermost leaf sheath; panicle may not emerge fully; grains discolored.",
+        "favorable_conditions": "High humidity, temperature 25-30°C, closer planting, injuries by leaf folder or brown plant hopper.",
+        "prevention": "Apply gypsum @ 500 kg/ha, spray neem oil 3%, Carbendazim @ 500 g/ha, Metominostrobin @ 500 ml/ha, or Hexaconazole 75% WG @ 100 mg/l. Seed treatment with Pseudomonas fluorescens @ 10 g/kg."
+      },
+      {
+        "name": "Sheath Blight",
+        "causal_organism": "Rhizoctonia solani",
+        "symptoms": "Oval or ellipsoid greyish-green lesions on leaf sheath near water level, turning greyish-white with brown margins; sclerotia formation.",
+        "favorable_conditions": "High relative humidity (96-97%), temperature 30-32°C, closer planting, high nitrogen.",
+        "prevention": "Apply neem cake @ 150 kg/ha, spray neem oil 3%, Carbendazim 50 WP @ 500 g/ha, Azoxystrobin @ 500 ml/ha, or Hexaconazole 75% WG @ 100 mg/l."
+      },
+      {
+        "name": "False Smut",
+        "causal_organism": "Ustilaginoidea virens",
+        "symptoms": "Affected grains turn into green velvety spore balls, larger than normal grains.",
+        "prevention": "Spray Propiconazole 25 EC @ 500 ml/ha or Copper hydroxide 77 WP @ 1.25 kg/ha at boot leaf and 50% flowering."
+      }
+    ]
+  },
+  {
+    "crop": "Pearl Millet",
+    "aliases": [
+      "Bajra",
+      "Bajri"
+    ],
+    "diseases": [
+      {
+        "name": "Downy Mildew",
+        "causal_organism": "Sclerospora graminicola",
+        "symptoms": "White downy growth on lower leaf surface, leaves turn yellow, earheads become green leafy structures.",
+        "favorable_conditions": "Very high humidity (90%), low temperature (15-25°C), water on leaves.",
+        "prevention": "Use resistant varieties CO7, WCC 75, CO(Cu) 9, remove infected plants up to 45 days, spray Metalaxyl + Mancozeb @ 500 g/ha or Mancozeb @ 1000 g/ha. Seed treatment with Metalaxyl @ 6 g/kg."
+      },
+      {
+        "name": "Rust",
+        "causal_organism": "Puccinia penniseti",
+        "symptoms": "Brownish-yellow pustules on both leaf surfaces, black teliosori on leaves and sheath.",
+        "favorable_conditions": "Closer spacing, presence of alternate host brinjal or Solanum species.",
+        "prevention": "Sow during December-May, spray Wettable Sulphur @ 2500 g/ha or Mancozeb @ 1000 g/ha, repeat after 10 days if needed."
+      },
+      {
+        "name": "Ergot",
+        "causal_organism": "Claviceps fusiformis",
+        "symptoms": "Pinkish sticky fluid from spikelets, black sticky patches, sclerotia formation, inhibited grain formation.",
+        "favorable_conditions": "High relative humidity.",
+        "prevention": "Remove ergot-affected seeds with salt solution, treat seeds with Thiram @ 2 g/kg, spray Carbendazim @ 500 g/ha or Mancozeb @ 1000 g/ha at 5-10% and 50% flowering."
+      }
+    ]
+  },
+  {
+    "crop": "Finger Millet",
+    "aliases": [
+      "Ragi",
+      "Mandua"
+    ],
+    "diseases": [
+      {
+        "name": "Blast",
+        "causal_organism": "Pyricularia grisea",
+        "symptoms": "Spindle-shaped spots with brown margins and grey center on leaves, blackening of stem nodes, chaffy or partially filled grains.",
+        "favorable_conditions": "High humidity.",
+        "prevention": "Spray Edifenphos @ 500 ml/ha, Carbendazim @ 500 g/ha, or Iprobenphos @ 500 ml/ha at symptom onset, repeat at flowering. Seed treatment with Thiram @ 4 g/kg or Pseudomonas fluorescens @ 10 g/kg."
+      },
+      {
+        "name": "Seedling Blight",
+        "causal_organism": "Helminthosporium nodulosum",
+        "symptoms": "Small oval brown spots on leaves merging into larger dark brown lesions, spots on culm, leaf sheath, and panicle.",
+        "favorable_conditions": "High humidity, dense planting.",
+        "prevention": "Seed treatment with Thiram @ 4 g/kg, Captan @ 4 g/kg, or Carbendazim @ 2 g/kg."
+      },
+      {
+        "name": "Mosaic",
+        "causal_organism": "Finger millet mosaic virus",
+        "symptoms": "Chlorotic streaks on leaves, stunted plants, small earheads with ill-filled grains.",
+        "favorable_conditions": "Presence of jassid vectors.",
+        "prevention": "Rogue out affected plants, spray Monocrotophos 36 WSC @ 700 ml/ha or Methyl Demeton 25 EC @ 500 ml/ha to control vectors."
+      }
+    ]
+  },
+  {
+    "crop": "Maize",
+    "aliases": [
+      "Corn",
+      "Makki"
+    ],
+    "diseases": [
+      {
+        "name": "Downy Mildew",
+        "causal_organism": "Peranosclerospora sorghi",
+        "symptoms": "Chlorotic streaks on leaves, white fungal growth, stunted plants with bushy appearance.",
+        "favorable_conditions": "Low temperature (21-33°C), high relative humidity (90%), drizzling.",
+        "prevention": "Use resistant hybrid CO-6, rogue affected plants, spray Metalaxyl + Mancozeb @ 1000 g/ha or Mancozeb @ 1000 g/ha at 20 days after sowing."
+      },
+      {
+        "name": "Rust",
+        "causal_organism": "Puccinia sorghi",
+        "symptoms": "Brown pustules on both leaf surfaces, representing uredosori.",
+        "favorable_conditions": "Cool temperature, high relative humidity, presence of alternate host Oxalis corniunlata.",
+        "prevention": "Spray Mancozeb @ 1000 g/ha or Zineb @ 2-4 g/liter at 10-day intervals."
+      },
+      {
+        "name": "Charcoal Rot",
+        "causal_organism": "Macrophomina phaseolina",
+        "symptoms": "Greyish streak on stalk, shredded pith, sclerotia on vascular bundles, stalk breakage.",
+        "favorable_conditions": "High temperature, low soil moisture (drought).",
+        "prevention": "Follow crop rotation, avoid water/nutrient stress, apply potash @ 80 kg/ha, soil application of Pseudomonas fluorescens or Trichoderma viride @ 2.5 kg/ha with FYM."
+      }
+    ]
+  },
+  {
+    "crop": "Redgram",
+    "aliases": [
+      "Pigeon pea",
+      "Tur dal",
+      "Arhar dal"
+    ],
+    "diseases": [
+      {
+        "name": "Wilt",
+        "causal_organism": "Fusarium oxysporum f.sp. udum",
+        "symptoms": "Gradual wilting, yellowing, and drying of leaves; black streaks in basal stem and root.",
+        "favorable_conditions": "Soil temperature 17-25°C, continuous redgram cultivation.",
+        "prevention": "Seed treatment with Trichoderma viride @ 4 g/kg or Pseudomonas fluorescens @ 10 g/kg, soil application of P. fluorescens or T. viride @ 2.5 kg/ha with FYM."
+      },
+      {
+        "name": "Powdery Mildew",
+        "causal_organism": "Leveillula taurica",
+        "symptoms": "White powdery growth on lower leaf surface, yellowing and premature leaf shedding.",
+        "favorable_conditions": "Dry humid weather following rainfall.",
+        "prevention": "Spray Carbendazim @ 500 g/ha or Wettable Sulphur @ 1500 g/ha."
+      },
+      {
+        "name": "Sterility Mosaic",
+        "causal_organism": "Pigeonpea sterility mosaic virus",
+        "symptoms": "Stunted plants, shortened internodes, bushy appearance, mottled small leaves.",
+        "favorable_conditions": "Presence of eriophid mite vector Aceria cajani.",
+        "prevention": "Rogue out infected plants, spray Fenazaquin @ 1 ml/l on 45 and 60 days after sowing."
+      }
+    ]
+  },
+  {
+    "crop": "Bengalgram",
+    "aliases": [
+      "Chickpea",
+      "Chana",
+      "Gram"
+    ],
+    "diseases": [
+      {
+        "name": "Blight",
+        "causal_organism": "Ascochyta rabiei",
+        "symptoms": "Round or elongated brown lesions with pycnidia on leaflets, stems, and pods.",
+        "favorable_conditions": "High rainfall during flowering, temperature 20-25°C, relative humidity 60%.",
+        "prevention": "Heat seeds at 40-50°C, spray Carbendazim @ 500 g/ha or Chlorothalonil @ 1 kg/ha, follow crop rotation with cereals."
+      },
+      {
+        "name": "Rust",
+        "causal_organism": "Uromyces ciceris-arietini",
+        "symptoms": "Small oval brown powdery lesions on lower leaf surface, dark teliosori later.",
+        "favorable_conditions": "Presence of weed host Trigonella polycerata.",
+        "prevention": "Destroy weed hosts, spray Carbendazim @ 500 g/ha or Propiconazole @ 1 L/ha."
+      },
+      {
+        "name": "Wilt",
+        "causal_organism": "Fusarium oxysporum f.sp. ciceris",
+        "symptoms": "Drooping leaves, dark brown/black vascular browning in stem and root.",
+        "favorable_conditions": "High soil temperature (above 25°C), high soil moisture.",
+        "prevention": "Soil application of Pseudomonas fluorescens @ 2.5 kg/ha with FYM, seed treatment with Trichoderma viride @ 4 g/kg."
+      }
+    ]
+  },
+  {
+    "crop": "Blackgram and Greengram",
+    "aliases": [
+      "Urad dal",
+      "Mung bean",
+      "Moong dal"
+    ],
+    "diseases": [
+      {
+        "name": "Root Rot",
+        "causal_organism": "Rhizoctonia bataticola",
+        "symptoms": "Drooping and drying leaves, brown basal stem, shredded bark with black sclerotia.",
+        "favorable_conditions": "Day temperature 30°C, prolonged dry season followed by irrigation.",
+        "prevention": "Seed treatment with Trichoderma viride @ 4 g/kg or Pseudomonas fluorescens @ 10 g/kg, apply zinc sulphate @ 25 kg/ha, spot drench Carbendazim @ 1 g/l."
+      },
+      {
+        "name": "Powdery Mildew",
+        "causal_organism": "Erysiphe polygoni",
+        "symptoms": "White powdery growth on upper leaf surface, turning grey, severe at flowering.",
+        "favorable_conditions": "Warm humid weather, late kharif and rabi seasons.",
+        "prevention": "Spray NSKE 5%, Neem oil 3%, Carbendazim @ 500 g/ha, or Wettable Sulphur @ 1500 g/ha at 10-day intervals."
+      },
+      {
+        "name": "Yellow Mosaic",
+        "causal_organism": "Mungbean yellow mosaic virus",
+        "symptoms": "Yellow patches on leaves, entire leaf turns yellow, small distorted pods.",
+        "favorable_conditions": "Transmitted by whitefly Bemisia tabaci, summer sown crops, weed hosts.",
+        "prevention": "Use resistant varieties VBN 4, 6, 7, seed treatment with Imidacloprid @ 5 ml/kg, install yellow sticky traps, spray Methyl Demeton 25 EC @ 500 ml/ha."
+      }
+    ]
+  },
+  {
+    "crop": "Cotton",
+    "aliases": [
+      "Kapas",
+      "Rui"
+    ],
+    "diseases": [
+      {
+        "name": "Fusarium Wilt",
+        "causal_organism": "Fusarium oxysporum f.sp. vasinfectum",
+        "symptoms": "Yellowing and wilting leaves, black streaks in vascular tissues, stunted tap root.",
+        "favorable_conditions": "Soil temperature 20-30°C, alkaline heavy soils, high nitrogen/phosphorus, nematode wounds.",
+        "prevention": "Treat seeds with Carboxin or Carbendazim @ 2 g/kg, use resistant varieties Varalakshmi, Vijay Pratap, apply potash and FYM, spot drench Carbendazim @ 1 g/l."
+      },
+      {
+        "name": "Root Rot",
+        "causal_organism": "Rhizoctonia solani",
+        "symptoms": "Sudden wilting, shredded bark of root and lower stem, sclerotia on affected tissue.",
+        "favorable_conditions": "Dry weather after heavy rains, high soil temperature (35-39°C), vegetable/legume hosts.",
+        "prevention": "Apply neem cake @ 150 kg/ha, seed treatment with Trichoderma viride @ 10 g/kg, spot drench Carbendazim @ 1 g/l."
+      },
+      {
+        "name": "Angular Leaf Spot",
+        "causal_organism": "Xanthomonas axonopodis pv. malvacearum",
+        "symptoms": "Angular brown to black water-soaked spots on leaves, black vein, black arm, boll rot.",
+        "favorable_conditions": "Soil temperature 28°C, atmospheric temperature 30-40°C, relative humidity 85%, early sowing.",
+        "prevention": "Avoid stacking infected plants, spray Streptomycin sulphate + Tetracycline @ 100 g/ha + Copper oxychloride @ 1250 g/ha, repeat at 10-day intervals."
+      }
+    ]
+  },
+  {
+    "crop": "Sugarcane",
+    "aliases": [
+      "Ganna",
+      "Ikshu"
+    ],
+    "diseases": [
+      {
+        "name": "Red Rot",
+        "causal_organism": "Colletotrichum falcatum",
+        "symptoms": "Circular to oval spots with red margin on midrib, red internal cane tissues with white patches, hollow stalks.",
+        "favorable_conditions": "Monoculturing, successive ratoon cropping, waterlogged conditions, insect injuries.",
+        "prevention": "Use resistant varieties Co86249, CoSi95071, treat setts with Carbendazim @ 0.05%, lengthen irrigation intervals, burn trash, rotate with rice."
+      },
+      {
+        "name": "Whip Smut",
+        "causal_organism": "Ustilago scitaminea",
+        "symptoms": "Stunted plants, central shoot turns into a curved whip-like sorus with dark teliospores.",
+        "favorable_conditions": "Monoculturing, continuous ratooning, dry weather during tillering.",
+        "prevention": "Use resistant varieties Co86249, CoG 93076, treat setts with Triadimefon @ 0.1%, remove smut whips, discourage ratooning if infection exceeds 10%."
+      },
+      {
+        "name": "Mosaic",
+        "causal_organism": "Sugarcane mosaic potyvirus",
+        "symptoms": "Linear chlorotic stripes alternating with dark green areas on young leaves, yellow stripes on leaf sheath and stalk.",
+        "favorable_conditions": "Transmitted by aphid Raphalosiphum maidis and infected setts.",
+        "prevention": "Select healthy setts, burn crop residues, spray Imidacloprid @ 100 ml/ha to control aphid vectors."
+      }
+    ]
+  },
+  {
+    "crop": "Groundnut",
+    "aliases": [
+      "Peanut",
+      "Moongfali"
+    ],
+    "diseases": [
+      {
+        "name": "Early Leaf Spot",
+        "causal_organism": "Cercospora arachidicola",
+        "symptoms": "Circular to irregular reddish-brown to dark brown spots on upper leaf surface with yellow halo, light brown on lower surface.",
+        "favorable_conditions": "Prolonged high relative humidity for 3 days, low temperature (20°C), heavy nitrogen/phosphorus, magnesium deficiency.",
+        "prevention": "Spray Carbendazim @ 500 g/ha, Mancozeb @ 1000 g/ha, or Chlorothalonil @ 1000 g/ha, repeat after 15 days if needed."
+      },
+      {
+        "name": "Rust",
+        "causal_organism": "Puccinia arachidis",
+        "symptoms": "Small powdery pustules on lower leaf surface, yellow to brown discoloration on upper surface, leaf shedding.",
+        "favorable_conditions": "High relative humidity (above 85%), heavy rainfall, low temperature (20-25°C).",
+        "prevention": "Spray Mancozeb @ 1000 g/ha, Chlorothalonil @ 1000 g/ha, or Wettable Sulphur @ 2500 g/ha, repeat after 15 days."
+      },
+      {
+        "name": "Collar Rot",
+        "causal_organism": "Aspergillus niger, Aspergillus pulverulentum",
+        "symptoms": "Circular brown spots on cotyledons, soft rot in collar region, large brown lesions on adult plant stems, wilting.",
+        "favorable_conditions": "Prolonged rainy season at seedling stage, low-lying areas.",
+        "prevention": "Crop rotation, destroy plant debris, seed treatment with Trichoderma viride @ 4 g/kg, apply castor cake @ 500 kg/ha."
+      }
+    ]
+  },
+  {
+    "crop": "Sunflower",
+    "aliases": [
+      "Surajmukhi"
+    ],
+    "diseases": [
+      {
+        "name": "Leaf Blight",
+        "causal_organism": "Alternaria helianthi",
+        "symptoms": "Circular brown spots with concentric rings and yellow halo, coalescing into irregular patches, leaf drying.",
+        "favorable_conditions": "Rainy weather, cool winter climate, late sown crops.",
+        "prevention": "Spray Mancozeb @ 1000 g/ha at disease onset."
+      },
+      {
+        "name": "Rust",
+        "causal_organism": "Puccinia helianthi",
+        "symptoms": "Reddish-brown powdery pustules on lower leaf surface, scattered or grouped.",
+        "favorable_conditions": "Day temperature 25.5-30.5°C, relative humidity 86-92%.",
+        "prevention": "Spray Mancozeb @ 1000 g/ha, repeat after 10 days if needed."
+      },
+      {
+        "name": "Head Rot",
+        "causal_organism": "Rhizopus sp.",
+        "symptoms": "Water-soaked lesions on lower head surface, turning brown, soft pulpy tissues, black seed mass.",
+        "favorable_conditions": "Prolonged rainy weather at flowering, insect damage.",
+        "prevention": "Spray Mancozeb @ 1000 g/ha at head stage, repeat after 10 days if humid weather persists."
+      }
+    ]
+  },
+  {
+    "crop": "Gingelly",
+    "aliases": [
+      "Sesame",
+      "Til"
+    ],
+    "diseases": [
+      {
+        "name": "Root Rot",
+        "causal_organism": "Macrophomina phaseolina",
+        "symptoms": "Brown discoloration at stem near soil, yellowing leaves, shredded bark, plant death in patches.",
+        "favorable_conditions": "Day temperature above 30°C, prolonged drought followed by irrigation.",
+        "prevention": "Soil application of Pseudomonas fluorescens or Trichoderma viride @ 2.5 kg/ha with FYM, spot drench Carbendazim @ 1 g/l, seed treatment with P. fluorescens @ 10 g/kg."
+      },
+      {
+        "name": "Leaf Blight",
+        "causal_organism": "Alternaria sesame",
+        "symptoms": "Round to irregular necrotic spots with concentric rings, leading to blight.",
+        "favorable_conditions": "High humidity, intermittent rains.",
+        "prevention": "Spray Mancozeb @ 1000 g/ha at disease onset."
+      },
+      {
+        "name": "Phyllody",
+        "causal_organism": "Candidatus Phytoplasma",
+        "symptoms": "Floral parts turn into green leafy structures, bushy plant appearance.",
+        "favorable_conditions": "Presence of jassid vector Orosius albicinctus.",
+        "prevention": "Remove and destroy infected plants, spray Monocrotophos 36 WSC @ 500 ml/ha, intercrop with redgram (6:1)."
+      }
+    ]
+  },
+  {
+    "crop": "Mango",
+    "aliases": [
+      "Aam",
+      "Mangifera"
+    ],
+    "diseases": [
+      {
+        "name": "Powdery Mildew",
+        "causal_organism": "Oidium mangiferae",
+        "symptoms": "White powdery fungal growth on leaves, flowers, and young fruits; leaf curling and premature fruit drop.",
+        "favorable_conditions": "Cool, dry nights and warm, humid days.",
+        "prevention": "Spray wettable sulphur @ 2.5 g/l or Carbendazim @ 1 g/l at the onset of disease."
+      },
+      {
+        "name": "Anthracnose",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "symptoms": "Dark brown to black spots on leaves, fruits, and panicles; lesions may coalesce causing large necrotic areas.",
+        "favorable_conditions": "Warm, humid, and rainy weather during flowering and fruiting.",
+        "prevention": "Spray Copper oxychloride @ 3 g/l or Carbendazim @ 1 g/l at 15-day intervals during flowering."
+      },
+      {
+        "name": "Bacterial Leaf Spot",
+        "causal_organism": "Xanthomonas campestris pv. mangiferaeindicae",
+        "symptoms": "Water-soaked lesions turning dark brown with yellow halos, premature leaf drop.",
+        "favorable_conditions": "High humidity and temperatures between 25–35°C.",
+        "prevention": "Spray Streptocycline @ 200 ppm combined with Copper oxychloride @ 3 g/l during early infection stages."
+      }
+    ]
+  }
+]
